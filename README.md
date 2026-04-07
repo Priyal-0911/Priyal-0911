@@ -1,8 +1,21 @@
 👋 Hi there! I’m Priyal Mehta
 
 Welcome to my GitHub profile!  
-I’m an **AI/ML Engineer** with ~3 years of experience building **production-grade AI systems**,  
-specializing in **Generative AI, LLMs, RAG pipelines, AI Agents, and Fine tuning models**.
+I'm an AI/ML Engineer up to 3 years of experience in Generative AI, Large Language Models (LLMs), NLP and Machine Learning. I have hands-on expertise in building scalable, production-grade AI systems including RAG pipelines, AI agents, and multimodal architectures.
+
+Currently working on developing intelligent solutions such as conversational AI agents, document intelligence systems, and NLP pipelines using technologies like Python, FastAPI, LangChain, and Hugging Face Transformers. I have experience deploying models on AWS and Azure, with a strong focus on performance optimization and real-time inference.
+
+My work includes:
+• Designing NLP pipelines using BERT for classification and Named Entity Recognition (NER)
+• Building enterprise-grade RAG chatbots with vector databases like Qdrant and Pinecone
+• Built a multi-tenant AI Agent using LangChain and LangGraph with tool-calling and context-aware workflows.
+• Developing AI voice and conversational systems using Whisper, GPT models, and Twilio
+• Creating multimodal AI solutions using OCR and vision-language models
+• Automating workflows using tools like n8n and integrating LLM-powered agents
+
+I’m passionate about solving real-world problems using AI and continuously exploring advancements in GenAI, LLMs, and Agentic AI systems.
+
+Open to opportunities where I can contribute to building impactful AI-driven products and scale intelligent systems.
 
 ---
 
